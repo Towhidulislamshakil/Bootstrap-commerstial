@@ -1,0 +1,26 @@
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.col-md-5{
+
+}
+
+.PAINGUINE{
+       font-family: 20px;
+}
+.WINTER{
+
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #76C27E 0%, #557e59 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 13px 28px;
+    cursor: pointer;
+}
+.col-md-7 p,button,h1{
+    padding: 0px 0px 0px 150px;
+}
