@@ -1,4 +1,5 @@
-.card{
+
+.card,.contact-info{
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
@@ -24,3 +25,17 @@
 .col-md-7 p,button,h1{
     padding: 0px 0px 0px 150px;
 }
+
+.card-img-top{
+    border-radius: 5px;
+    background-color: #f3efea;
+    border: 10px;
+}
+
+.card-body{
+
+}
+.card-title{
+
+}
+
