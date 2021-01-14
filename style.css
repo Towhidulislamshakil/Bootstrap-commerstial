@@ -1,4 +1,6 @@
-
+.bgcolor{
+   background-color:#E9FDD7;
+}
 .card,.contact-info{
     border: none;
     border-radius: 10px;
@@ -8,11 +10,16 @@
 
 }
 
-.PAINGUINE{
-       font-family: 20px;
+.PAINGUINE-text,.WINTER{
+       color:#FA804C;
+       font-family: 'Anton', sans-serif;
+       font-size: 60px;
 }
 .WINTER{
-
+     color:#A4BC46;
+}
+.paragraph-text{
+    color:gray;
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom, #76C27E 0%, #557e59 100%);
@@ -26,9 +33,9 @@
     padding: 0px 0px 0px 150px;
 }
 
-.card-img-top{
+.card-img-top,.contact-bg-color{
     border-radius: 5px;
-    background-color: #f3efea;
+    background-color: #E8ECF5;
     border: 10px;
 }
 
@@ -36,6 +43,17 @@
 
 }
 .card-title{
-
+    color:#363958;
+    font-family: 'Anton', sans-serif;
 }
-
+.dollar{
+    color:#FA804C;
+    font-family: 'Anton', sans-serif;
+}
+.buy-now-button{
+    padding-left:20px;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}
